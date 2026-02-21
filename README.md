@@ -1,5 +1,7 @@
 # Wilkes
 Wilkes: AI Storytelling for Nonprofits
+*witness the truth, write it plainly, let the story do the work.*
+
 
 
 *Humanitarians AI is a registered 501(c)(3). Contributions are tax-deductible to the extent permitted by law.*
@@ -9,7 +11,7 @@ Wilkes: AI Storytelling for Nonprofits
 |---|---|
 | **Project Name** | **Wilkes** |
 | **One-Liner** | Wilkes is the New Yorker for nonprofits who have stories no one has heard. |
-| **Name Origin** | Wilkes is named in tribute to Paul Wilkes — journalist, author, DuPont-Columbia Award winner, and founder of Homes of Hope India-US. Paul did not build this tool and is not responsible for it. The name honors his method: witness the truth, write it plainly, let the story do the work. He is 86 years old and still reviews every article before it publishes. |
+| **Name Origin** | Wilkes is named in tribute to Paul Wilkes — journalist, author, DuPont-Columbia Award winner, and founder of Homes of Hope India-US. Paul did not build this tool and is not responsible for it. The name honors his method: witness the truth, write it plainly, let the story do the work. |
 | **Brand Archetype** | **Sage** — Wilkes exists to surface truth that already exists in the field, not to invent or embellish it. The Sage archetype fits because the tool's entire value proposition is grounded in credibility, no-fabrication rigor, and the spirit of Paul Wilkes's journalism. The Sage doesn't perform urgency — it earns trust. |
 | **Visual Signal** | **Color:** Deep ink blue (authority, longevity, print tradition) / **Motif:** A single typewriter key or open field notebook — evoking the journalist on the ground, not the algorithm in the cloud |
 # Slide 10 — The Ask & Call to Action
