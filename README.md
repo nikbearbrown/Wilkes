@@ -34,11 +34,11 @@ Instead of watching stories disappear into a folder no one opens, your organizat
 
 This is the part that matters most.
 
-Wilkes is not a content generator. It is not a tool that produces passable copy fast. It is a writing system trained on the method of Paul Wilkes — one of America's most respected narrative journalists — and configured specifically for your organization before a single word is written.
+Wilkes is not a content generator. It is not a tool that produces passable copy fast. It is a writing system trained on the the existing writing from your oragnization and configured specifically for your organization before a single word is written.
 
 We learn your mission. We learn your people. We learn how you talk about your work and what you would never say. We read everything you've written and everything that's been written about you. We load the names, the places, the outcomes, the founding story, the specific texture of why this organization exists.
 
-Then we write — in a register that matches the gravity of what you do.
+Then the tool writes the draft — in a register that matches the gravity of what you do. Many drafts are wonderful one one or two passes, but the tool will continue to make changes in your voice until you are ready to hit publish.
 
 A profile of one of your graduates does not read like a press release. A documentary arc following a field team does not sound like fundraising copy. A donor-facing article does not perform urgency or manufacture sentiment. The writing earns trust because it is specific, grounded, and unmistakably yours.
 
@@ -48,7 +48,7 @@ Every piece Wilkes produces is consistent with what came before it. Your brand v
 
 ## What You Send Us. What We Produce.
 
-You do not need to know how to use the system. You need to know how to send an email.
+You do not need to know how to use the system. You need to know how to send an email. For example *[The Nerd Skills Problem](https://open.substack.com/pub/nikbearbrown/p/the-nerd-skills-problem?utm_campaign=post-expanded-share&utm_medium=web)* article was written from the AI notes of [Humanitarians AI](https://www.humanitarians.ai/) first Zoom call with [Homes of Hope India][(](https://www.homeofhopeindia.org/))
 
 Upload what you have — raw footage, transcripts, interview recordings, annual reports, program notes, field logs, photos, a description of the people your organization serves. Tell us about the work. Tell us about the people. Tell us the story you've never had time to write.
 
@@ -65,6 +65,8 @@ Wilkes converts that material into publication-ready content across five formats
 | **YouTube Package** | Title, description, and hashtag set for every video in your pipeline |
 
 Every piece goes through review before it publishes. Nothing goes out with facts we cannot verify. Nothing is invented. Nothing is embellished.
+
+The draft will stay in your Substack until you review it.
 
 ---
 
@@ -101,7 +103,7 @@ Wilkes is not a concept. It is a live system with a published article, a configu
 
 | Where We Are | Target | How We'll Know It Worked |
 |---|---|---|
-| Live pilot with Homes of Hope India — Substack live, first article published, footage pipeline active | Now | Paul Wilkes reviewing drafts; pipeline producing |
+| Live pilot with Homes of Hope India — [Substack](https://homesofhopeindia.substack.com/) live, first article published, footage pipeline active | Now | Paul Wilkes reviewing drafts; pipeline producing |
 | Three additional beta nonprofit partners onboarded across distinct mission types | Next | Faith-based, international humanitarian, and domestic cause organizations actively publishing |
 | Ten published case studies and a repeatable onboarding process | Following | Each beta partner has 8+ published pieces; raw material to first article in under 5 business days |
 | First paying clients and a replicable service model | Launch | Documented methodology transferable to additional Humanitarians AI fellows and student practitioners |
@@ -112,7 +114,7 @@ The pipeline exists. We are filling it.
 
 ## Here Is What It Already Does
 
-This is not a mockup. This is homesofhopeindia.substack.com — live, published this morning.
+This is not a mockup. This is [homesofhopeindia.substack.com](https://homesofhopeindia.substack.com/) — live, published this morning.
 
 Three weeks ago this organization had footage on a hard drive in India and no content infrastructure. Today it has a Substack, a published article, and a pipeline producing more.
 
