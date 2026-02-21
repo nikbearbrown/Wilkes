@@ -34,11 +34,11 @@ Instead of watching stories disappear into a folder no one opens, your organizat
 
 This is the part that matters most.
 
-Wilkes is not a content generator. It is not a tool that produces passable copy fast. It is a writing system trained on the the existing writing from your oragnization and configured specifically for your organization before a single word is written.
+Wilkes is not a content generator. It is not a tool that produces passable copy fast. It is a writing system trained on the existing writing from your organization and configured specifically for your organization before a single word is written.
 
 We learn your mission. We learn your people. We learn how you talk about your work and what you would never say. We read everything you've written and everything that's been written about you. We load the names, the places, the outcomes, the founding story, the specific texture of why this organization exists.
 
-Then the tool writes the draft — in a register that matches the gravity of what you do. Many drafts are wonderful one one or two passes, but the tool will continue to make changes in your voice until you are ready to hit publish.
+Then the tool writes the draft — in a register that matches the gravity of what you do. Many drafts are wonderful on one or two passes, but the tool will continue to make changes in your voice until you are ready to hit publish.
 
 A profile of one of your graduates does not read like a press release. A documentary arc following a field team does not sound like fundraising copy. A donor-facing article does not perform urgency or manufacture sentiment. The writing earns trust because it is specific, grounded, and unmistakably yours.
 
@@ -48,7 +48,7 @@ Every piece Wilkes produces is consistent with what came before it. Your brand v
 
 ## What You Send Us. What We Produce.
 
-You do not need to know how to use the system. You need to know how to send an email. For example *[The Nerd Skills Problem](https://open.substack.com/pub/nikbearbrown/p/the-nerd-skills-problem?utm_campaign=post-expanded-share&utm_medium=web)* article was written from the AI notes of [Humanitarians AI](https://www.humanitarians.ai/) first Zoom call with [Homes of Hope India][(](https://www.homeofhopeindia.org/))
+You do not need to know how to use the system. You need to know how to send an email. For example, *[The Nerd Skills Problem](https://open.substack.com/pub/nikbearbrown/p/the-nerd-skills-problem?utm_campaign=post-expanded-share&utm_medium=web)* article was written from the AI notes of [Humanitarians AI](https://www.humanitarians.ai/) first Zoom call with [Homes of Hope India](https://www.homeofhopeindia.org/).
 
 Upload what you have — raw footage, transcripts, interview recordings, annual reports, program notes, field logs, photos, a description of the people your organization serves. Tell us about the work. Tell us about the people. Tell us the story you've never had time to write.
 
@@ -121,6 +121,22 @@ Three weeks ago this organization had footage on a hard drive in India and no co
 The nonprofit sent footage. Wilkes returned a finished story. No communications hire. No agency. No months of production.
 
 That is the proof of concept. And it is replicable for any organization willing to send us their raw material.
+
+---
+
+## Wilkes Also Builds the Pitch for Your Mission
+
+Most nonprofits do extraordinary work that foundations, major donors, and grant committees never hear about — not because the mission lacks merit, but because no one on staff has built a pitch before.
+
+Wilkes includes a nonprofit-adapted version of the Madison Pitch Framework: a structured method for building a compelling ten-slide presentation of *your* mission, *your* outcomes, and *your* ask. The framework was originally developed for startup ventures. The Wilkes variant strips the startup defaults — revenue multiples, growth-at-all-costs framing, equity structures — and replaces them with the language nonprofits actually need: mission clarity, program proof, donor economics, and a call to action built around partnership rather than investment.
+
+You describe your organization. Your people. The problem you exist to solve. What you need and who you need it from. Wilkes builds the complete narrative — the hook, the solution, the evidence, the roadmap, and the ask — in a voice that matches the gravity of your work rather than performing urgency it hasn't earned.
+
+The document you are reading right now was produced by Wilkes. Not as a pitch for your organization — but as a pitch for ours. The same system that built this narrative can build yours: the opening that stops a donor mid-scroll, the competitive framing that explains why your approach is different, the closing line that makes someone remember your mission after the meeting ends.
+
+If your organization needs to stand in front of a foundation, a major donor, a university partnership, or a grant committee — and you have never built a pitch before — this is where you start.
+
+Same email. Same subject line. Tell us what you need the pitch to do.
 
 ---
 
