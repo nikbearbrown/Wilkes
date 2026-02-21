@@ -1,87 +1,6 @@
 # Wilkes
 Wilkes: AI Storytelling for Nonprofits
 
-# Help Us Tell the Stories Nonprofits Can't Afford to Tell
-
-**Organized by Humanitarians AI · Northeastern University**
-
----
-
-## The Story That Started This
-
-A filmmaker named Doug is in India right now. He's been sending footage back every day — dormitory hallways, coconut palms, a young woman named Kratjeshiri sitting in a dining hall describing a shelf where she used to keep her things, smiling, calling it her happy place.
-
-Kratjeshiri came to Homes of Hope India as a child with nowhere to go. She came back as an adult because she wanted to. That is what nineteen years of this organization's work looks like. That is the story.
-
-Until this week, almost nobody outside their existing donor base knew it existed.
-
----
-
-## The Problem We're Solving
-
-There are thousands of nonprofits like Homes of Hope — organizations doing extraordinary, documented, life-changing work that almost no one knows about. Not because the work is weak. Because converting field footage into donor-ready stories requires skills and time that frontline organizations simply don't have.
-
-The result: missions that have been operating for decades, serving thousands of people, remain invisible to the donors, advocates, and policymakers who would support them if they only knew they existed.
-
-A girl's education at a Homes of Hope school costs $940 a year. The story that could fund it costs nothing to tell — if you have the tools to tell it.
-
----
-
-## What We Built
-
-We built **Wilkes** — an AI writing system trained on the voice and method of Paul Wilkes, one of America's most respected narrative journalists (The New Yorker, The Atlantic, DuPont-Columbia Award winner). Paul is 86 years old and still reviews every article before it publishes.
-
-Wilkes takes raw nonprofit field material — footage, transcripts, production logs, interviews — and converts it into publication-ready content: profiles, documentary narratives, donor-facing articles, and YouTube packages. In hours, not months. At a fraction of the cost of a communications team.
-
-It does not fabricate. It does not invent. It translates what already exists into the story it deserves to be.
-
-**On February 21, 2026, we published the first article.** Homes of Hope India now has a live Substack, a content pipeline, and a voice equal to its mission.
-
----
-
-## What Your Money Does
-
-We are offering the Wilkes system to nonprofits in beta at **zero cost** — because the organizations that need it most are the ones that cannot pay for it yet.
-
-Your contribution funds that directly:
-
-| Amount | What It Covers |
-|---|---|
-| **$10** | One piece of publication-ready content for a beta nonprofit |
-| $25 | A full week of content for a small shelter, school, or humanitarian program |
-| $50 | Onboards one nonprofit onto the Wilkes system |
-| $100 | One month of full content pipeline for a beta partner organization |
-| $940 | One girl's education at a Homes of Hope school for a full year |
-
-Every dollar goes to expanding beta access — bringing more nonprofits into the program at no cost while we build the case studies that demonstrate what this system can do at scale.
-
----
-
-## Who We Are
-
-**Humanitarians AI** is a 501(c)(3) nonprofit founded by Nik Bear Brown, Associate Teaching Professor at Northeastern University's College of Engineering. Our premise: ethical artificial intelligence can amplify the work of people doing necessary things — not by replacing the human infrastructure, but by making it visible to the people who would support it.
-
-Our collaborators on this project include Doug, the documentary filmmaker currently in the field in India; Dilraj, a computer scientist and systems thinker building a pilot program to interrupt forced child begging at its source in Kerala; and Paul Wilkes himself, journalist and founder of Homes of Hope India-US, who has been telling this story since 2006 and trusts us to help tell it now.
-
----
-
-## The Broader Mission
-
-Homes of Hope is the pilot. The Wilkes system is designed to be replicable for any mission-driven organization with documentary footage and a story that deserves a larger audience. The inputs change. The method — witness, write, act — does not.
-
-We are seeking three beta nonprofit partners to join Homes of Hope in the program through June 2026. If your organization has a story it hasn't been able to tell, write to us at nik@humanitariansai.org.
-
-If you're not a nonprofit but you believe these stories deserve to be told — this is how you help.
-
----
-
-## $10. $25. Whatever you can.
-
-Kratjeshiri described a shelf where she used to keep her things as if it were the most precious real estate in the world. She was right. Some things deserve to be kept. Some stories deserve to be told.
-
-Help us tell them.
-
-**[DONATE NOW]**
 
 *Humanitarians AI is a registered 501(c)(3). Contributions are tax-deductible to the extent permitted by law.*
 # Slide 1 — Title & Identity
@@ -344,4 +263,87 @@ Three weeks ago this organization had footage on a hard drive in India and no co
 The nonprofit sent footage. Wilkes returned a finished story. No communications hire. No agency. No months of production.
 
 That is the proof of concept. And it is replicable for any organization in this room willing to send us their raw material.
+
+
+# Help Us Tell the Stories Nonprofits Can't Afford to Tell
+
+**Organized by Humanitarians AI · Northeastern University**
+
+---
+
+## The Story That Started This
+
+A filmmaker named Doug is in India right now. He's been sending footage back every day — dormitory hallways, coconut palms, a young woman named Kratjeshiri sitting in a dining hall describing a shelf where she used to keep her things, smiling, calling it her happy place.
+
+Kratjeshiri came to Homes of Hope India as a child with nowhere to go. She came back as an adult because she wanted to. That is what nineteen years of this organization's work looks like. That is the story.
+
+Until this week, almost nobody outside their existing donor base knew it existed.
+
+---
+
+## The Problem We're Solving
+
+There are thousands of nonprofits like Homes of Hope — organizations doing extraordinary, documented, life-changing work that almost no one knows about. Not because the work is weak. Because converting field footage into donor-ready stories requires skills and time that frontline organizations simply don't have.
+
+The result: missions that have been operating for decades, serving thousands of people, remain invisible to the donors, advocates, and policymakers who would support them if they only knew they existed.
+
+A girl's education at a Homes of Hope school costs $940 a year. The story that could fund it costs nothing to tell — if you have the tools to tell it.
+
+---
+
+## What We Built
+
+We built **Wilkes** — an AI writing system trained on the voice and method of Paul Wilkes, one of America's most respected narrative journalists (The New Yorker, The Atlantic, DuPont-Columbia Award winner). Paul is 86 years old and still reviews every article before it publishes.
+
+Wilkes takes raw nonprofit field material — footage, transcripts, production logs, interviews — and converts it into publication-ready content: profiles, documentary narratives, donor-facing articles, and YouTube packages. In hours, not months. At a fraction of the cost of a communications team.
+
+It does not fabricate. It does not invent. It translates what already exists into the story it deserves to be.
+
+**On February 21, 2026, we published the first article.** Homes of Hope India now has a live Substack, a content pipeline, and a voice equal to its mission.
+
+---
+
+## What Your Money Does
+
+We are offering the Wilkes system to nonprofits in beta at **zero cost** — because the organizations that need it most are the ones that cannot pay for it yet.
+
+Your contribution funds that directly:
+
+| Amount | What It Covers |
+|---|---|
+| **$10** | One piece of publication-ready content for a beta nonprofit |
+| $25 | A full week of content for a small shelter, school, or humanitarian program |
+| $50 | Onboards one nonprofit onto the Wilkes system |
+| $100 | One month of full content pipeline for a beta partner organization |
+| $940 | One girl's education at a Homes of Hope school for a full year |
+
+Every dollar goes to expanding beta access — bringing more nonprofits into the program at no cost while we build the case studies that demonstrate what this system can do at scale.
+
+---
+
+## Who We Are
+
+**Humanitarians AI** is a 501(c)(3) nonprofit founded by Nik Bear Brown, Associate Teaching Professor at Northeastern University's College of Engineering. Our premise: ethical artificial intelligence can amplify the work of people doing necessary things — not by replacing the human infrastructure, but by making it visible to the people who would support it.
+
+Our collaborators on this project include Doug, the documentary filmmaker currently in the field in India; Dilraj, a computer scientist and systems thinker building a pilot program to interrupt forced child begging at its source in Kerala; and Paul Wilkes himself, journalist and founder of Homes of Hope India-US, who has been telling this story since 2006 and trusts us to help tell it now.
+
+---
+
+## The Broader Mission
+
+Homes of Hope is the pilot. The Wilkes system is designed to be replicable for any mission-driven organization with documentary footage and a story that deserves a larger audience. The inputs change. The method — witness, write, act — does not.
+
+We are seeking three beta nonprofit partners to join Homes of Hope in the program through June 2026. If your organization has a story it hasn't been able to tell, write to us at nik@humanitariansai.org.
+
+If you're not a nonprofit but you believe these stories deserve to be told — this is how you help.
+
+---
+
+## $10. $25. Whatever you can.
+
+Kratjeshiri described a shelf where she used to keep her things as if it were the most precious real estate in the world. She was right. Some things deserve to be kept. Some stories deserve to be told.
+
+Help us tell them.
+
+**[DONATE NOW]**
 
