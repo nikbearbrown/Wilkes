@@ -8,7 +8,7 @@
 
 ## The People Doing the Most Necessary Work in the World Are Too Busy to Tell Anyone About It
 
-Consider the sisters running a shelter for trafficked girls in Kerala. They wake before dawn. They are surrogate mothers to thirty children. They have a filmmaker sending footage from the field, a founder who is 86, and a donor base that hasn't grown in years — not because the mission is failing, but because no one on staff has four hours to turn a dormitory interview into a published article.
+Consider the sisters running a shelter for trafficked girls in Kerala. They wake before dawn. They are surrogate mothers to thirty children. They have a filmmaker, Doug Werby, sending documentary footage from the field — not because the mission is failing, but because no one on staff has the time to turn a dormitory interview into a published article.
 
 The story exists. The bandwidth does not.
 
