@@ -4,7 +4,7 @@ import PrimaryButton from "@/components/ui/primary-button";
 import SecondaryButton from "@/components/ui/secondary-button";
 
 export const metadata: Metadata = {
-  title: "AIMagineering: Creative Intelligence - Irreducibly Human",
+  title: "AIMagineering: Creative Intelligence - Wilkes",
   description: "The Full Design Pipeline. Tier 4 depth. Empathize, Define, Ideate, Prototype, Test, Commit — the Commit stage that Design Thinking omits.",
 };
 
@@ -23,7 +23,7 @@ export default function AIMagineeringPage() {
             <iframe
               className="absolute top-0 left-0 w-full h-full"
               src="https://www.youtube.com/embed/videoseries?si=caS7A9UMCFewuuRB&amp;list=PLgOGgHS58rB-sBjm4oEfMfFXcYZf89IDo?enablejsapi=1"
-              title="AIMagineering - Irreducibly Human"
+              title="AIMagineering - Wilkes"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"
               allowFullScreen
@@ -90,7 +90,7 @@ export default function AIMagineeringPage() {
           <section>
             <h2 className="text-3xl font-bold mb-6">Continue the Sequence</h2>
             <div className="flex flex-col sm:flex-row gap-4 flex-wrap">
-              <PrimaryButton href="/notes/Embodied-Teaching/Irreducibly-Human-Embodied-Teaching">
+              <PrimaryButton href="/notes/Embodied-Teaching/Wilkes-Embodied-Teaching">
                 Next: Embodied Teaching
               </PrimaryButton>
               <SecondaryButton href="/courses">
@@ -108,7 +108,7 @@ export default function AIMagineeringPage() {
                   bear@bearbrown.co
                 </a>
                 <Link
-                  href="/notes/Irreducibly-Human/Irreducibly-Human-Project"
+                  href="/notes/Wilkes/Wilkes-Project"
                   className="text-sm text-primary hover:underline"
                 >
                   About the Series

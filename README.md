@@ -1,11 +1,11 @@
 
-# Irreducibly Human — What AI Can and Can't Do
+# Wilkes — What AI Can and Can't Do
 
 A 5-course graduate series at Bear Brown & Company. Each course
 develops a specific tier of human intelligence that AI cannot replicate.
 
-**Live site:** https://irreduciblyhuman.xyz
-**GitHub:** https://github.com/nikbearbrown/Irreducibly-Human
+**Live site:** https://wilkes.xyz
+**GitHub:** https://github.com/nikbearbrown/Wilkes
 
 ## Stack
 
@@ -43,8 +43,8 @@ node --version && npm --version && git --version
 ## Getting Started
 
 ```bash
-git clone https://github.com/nikbearbrown/Irreducibly-Human.git
-cd Irreducibly-Human
+git clone https://github.com/nikbearbrown/Wilkes.git
+cd Wilkes
 npm install --legacy-peer-deps
 cp .env.example .env.local   # add your environment variables
 npm run dev
@@ -58,7 +58,7 @@ Open http://localhost:3000
 DATABASE_URL=              # Neon PostgreSQL connection string
 ADMIN_PASSWORD=            # Password for /admin/login
 BLOB_READ_WRITE_TOKEN=     # Vercel Blob token
-NEXT_PUBLIC_SITE_URL=      # https://irreduciblyhuman.xyz
+NEXT_PUBLIC_SITE_URL=      # https://wilkes.xyz
 ```
 
 ## Database Setup
@@ -87,7 +87,7 @@ and Substack sections from the dashboard.
 
 Created by Nik Bear Brown, Bear Brown & Company.
 
-Irreducibly Human is open source (MIT License). See `LICENSE` for details.
+Wilkes is open source (MIT License). See `LICENSE` for details.
 
 - [bearbrown.co](https://www.bearbrown.co/)
 - [The Skepticism AI Substack](https://www.skepticism.ai/)

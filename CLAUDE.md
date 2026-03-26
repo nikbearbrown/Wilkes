@@ -1,9 +1,9 @@
-# CLAUDE.md — Irreducibly Human
+# CLAUDE.md — Wilkes
 
-> **Irreducibly Human: What AI Can and Can't Do** — a 5-course graduate series in Bear Brown & Company. Each course develops a specific tier of human intelligence that AI cannot replicate.
+> **Wilkes: What AI Can and Can't Do** — a 5-course graduate series in Bear Brown & Company. Each course develops a specific tier of human intelligence that AI cannot replicate.
 
 ## Who this site is for
-Irreducibly Human is the companion site for a graduate certificate program at Bear Brown & Company. It serves as the public-facing hub for course descriptions, research blog posts, interactive tools, and developer documentation.
+Wilkes is the companion site for a graduate certificate program at Bear Brown & Company. It serves as the public-facing hub for course descriptions, research blog posts, interactive tools, and developer documentation.
 
 Primary audiences:
 - Prospective and current graduate students evaluating the certificate
@@ -26,7 +26,7 @@ Brand voice: Academic, clear, direct. Informed by research, accessible to practi
 - adm-zip (server-side Substack ZIP parsing)
 
 ## Author
-**Nik Bear Brown**, Bear Brown & Company. Creator of the Irreducibly Human curriculum and this platform.
+**Nik Bear Brown**, Bear Brown & Company. Creator of the Wilkes curriculum and this platform.
 
 ## Site structure
 1. `/` — Home (program intro + course overview + contact)
@@ -41,16 +41,16 @@ Brand voice: Academic, clear, direct. Informed by research, accessible to practi
 10. `/dev` — Dev docs browser (searchable card grid, filesystem-driven)
 11. `/dev/[slug]` — Full-viewport iframe of a dev doc HTML file
 12. `/notes` — Notes browser (searchable card grid, grouped by folder, filesystem-driven)
-13. `/notes/[...slug]` — Full-viewport iframe of a note HTML file (e.g., `/notes/Irreducibly-Human/NEU_botspeak-syllabus`)
+13. `/notes/[...slug]` — Full-viewport iframe of a note HTML file (e.g., `/notes/Wilkes/NEU_botspeak-syllabus`)
 14. `/books` — Books browser (searchable card grid, filesystem-driven via `book.json`)
 15. `/books/[slug]` — Book detail page with metadata and TOC
 16. `/books/[slug]/[...chapter]` — Full-viewport iframe of a book chapter
 17. `/blog` — Blog feed: published posts newest first, clean card list
 13. `/blog/[slug]` — Individual blog post with prose content
 14. `/about` — About the program (prose format, author info)
-15. `/privacy` — Privacy Policy for Irreducibly Human
-16. `/privacy/cookies` — Cookie Policy for Irreducibly Human (dedicated page)
-17. `/terms-of-service` — Terms of Service for Irreducibly Human
+15. `/privacy` — Privacy Policy for Wilkes
+16. `/privacy/cookies` — Cookie Policy for Wilkes (dedicated page)
+17. `/terms-of-service` — Terms of Service for Wilkes
 18. `/substack` — Newsletter hub: card grid of all Substack sections
 19. `/substack/[section]` — Section page: description, "Follow on Substack" CTA, chronological article list
 20. `/substack/[section]/[slug]` — Full article: attribution banner, prose content, "Subscribe on Substack" footer CTA
@@ -90,18 +90,18 @@ Teaching is irreducibly human. This course covers presence, improvisation, emoti
 ## Persistent layout (every page)
 
 ### Header (`/components/Header/Header.tsx`) — DONE
-- Logo: text-based "Irreducibly Human" in bold tracking-tighter
+- Logo: text-based "Wilkes" in bold tracking-tighter
 - Nav: Home (`/`) | Courses (`/courses`) | Tools (`/tools`) | Dev (`/dev`) | About (`/about`) | Blog (`/blog`)
-- Social buttons (top right): GitHub (github.com/nikbearbrown/irreducibly-human), Substack (skepticism.ai), YouTube (youtube.com/@Musinique), Spotify (open.spotify.com/artist/0hSpFCJodAYMP2cWK72zI6) — black button style
+- Social buttons (top right): GitHub (github.com/nikbearbrown/Wilkes), Substack (skepticism.ai), YouTube (youtube.com/@Musinique), Spotify (open.spotify.com/artist/0hSpFCJodAYMP2cWK72zI6) — black button style
 - Dark/light mode toggle (ThemeToggle component)
 - Mobile hamburger menu with backdrop (lg breakpoint)
 - Sticky, z-50, backdrop-blur
 
 ### Footer (`/components/Footer/Footer.tsx`) — DONE
 Four-column grid layout:
-- **Program Info:** Irreducibly Human, Bear Brown & Company, Bear Brown & Company, bear@bearbrown.co
+- **Program Info:** Wilkes, Bear Brown & Company, Bear Brown & Company, bear@bearbrown.co
 - **Platform:** Links to Courses, Tools, Blog, About
-- **Connect:** GitHub (github.com/nikbearbrown/irreducibly-human), Substack (skepticism.ai), Bear Brown & Co (bearbrown.co), YouTube (youtube.com/@Musinique), Spotify (open.spotify.com/artist/0hSpFCJodAYMP2cWK72zI6)
+- **Connect:** GitHub (github.com/nikbearbrown/Wilkes), Substack (skepticism.ai), Bear Brown & Co (bearbrown.co), YouTube (youtube.com/@Musinique), Spotify (open.spotify.com/artist/0hSpFCJodAYMP2cWK72zI6)
 - **Legal:** Privacy Policy, Cookie Policy, Terms of Service
 - Bottom bar: copyright
 
@@ -113,7 +113,7 @@ Four-column grid layout:
 
 ## Home page (`/app/page.tsx`) — NEEDS UPDATE
 Five sections, alternating white/muted/dark backgrounds:
-1. **Hero** (two-column): Left — h1 "Irreducibly Human", subtext "What AI Can and Can't Do", program description, "Explore Courses" + "Contact Us" buttons. Right — introductory video embed.
+1. **Hero** (two-column): Left — h1 "Wilkes", subtext "What AI Can and Can't Do", program description, "Explore Courses" + "Contact Us" buttons. Right — introductory video embed.
 2. **The Five Courses** (2x2+1 card grid, muted bg): Five course cards — BotSpeak, Causal Reasoning, Ethical Play, AIMagineering, Embodied Teaching. Each with description + course link.
 3. **Who This Is For** (3-column cards, dark bg): For Graduate Students, For Researchers, For Professionals — each with 4 bullet points.
 4. **Get Started** (bb-2 bg): CTA section with "EXPLORE COURSES" (/courses), "ABOUT THE PROGRAM" (/about), "CONTACT US" buttons.
@@ -177,7 +177,7 @@ CREATE POLICY "service_role_tools" ON tools FOR ALL USING (true) WITH CHECK (tru
 
 ### Structure
 Notes are organized into subdirectories under `public/notes/`, each folder representing a collection:
-- `public/notes/Irreducibly-Human/` — Core curriculum documents (syllabi, TIC TOCs, project doc)
+- `public/notes/Wilkes/` — Core curriculum documents (syllabi, TIC TOCs, project doc)
 - `public/notes/White-Label/` — White-label workshop materials
 
 ### Adding new notes
@@ -325,14 +325,14 @@ Tiptap (ProseMirror-based) rich text editor, Substack-style:
 
 ## About page (`/app/about/page.tsx`) — NEEDS UPDATE
 Prose-forward format with sections:
-- Program introduction (Irreducibly Human at Bear Brown & Company)
+- Program introduction (Wilkes at Bear Brown & Company)
 - Author (Nik Bear Brown, Bear Brown & Company)
 - The Thesis (what AI can and can't do — the irreducibly human capacities)
 - The Five Courses (overview of the sequence)
 - Contact (email)
 
 ## Legal Pages — DONE
-All three pages use the same structural template, branded for Irreducibly Human. Bear Brown & Company, Bear Brown & Company. Contact: bear@bearbrown.co. Educational program.
+All three pages use the same structural template, branded for Wilkes. Bear Brown & Company, Bear Brown & Company. Contact: bear@bearbrown.co. Educational program.
 
 ### Privacy Policy (`/app/privacy/page.tsx`)
 Sections: introduction, information we collect (contact data, inquiry content, engagement data, analytics), how we use info, sharing (consent, legitimate interests, contract, legal, vital interests), third-party services (Vercel, Neon, Substack, Anthropic, GitHub), cookies reference (links to Cookie Policy page), data security, data retention, your privacy rights, children's privacy, changes, contact. Nav: Terms of Service ← → Cookie Policy.
@@ -343,7 +343,7 @@ Separate dedicated page at `/privacy/cookies`. Sections: what are cookies, cooki
 ### Terms of Service (`/app/terms-of-service/page.tsx`)
 15 sections: introduction, website purpose, educational content, intellectual property, use license, user conduct, newsletter content, third-party services and links, disclaimer, limitations, indemnification, revisions and errata, governing law (Massachusetts, USA), modifications, contact. Nav: Privacy Policy ← → Home.
 
-## Theming (Irreducibly Human palette)
+## Theming (Wilkes palette)
 
 The color palette lives in three places that must stay in sync:
 - `lib/theme.ts` — TypeScript source of truth
@@ -445,7 +445,7 @@ Server-side parser using adm-zip. Reads `posts.csv` + HTML files from a Substack
 ```
 DATABASE_URL=                    # Neon PostgreSQL connection string (from Vercel marketplace or Neon dashboard)
 ADMIN_PASSWORD=                  # Password for /admin/login — set a strong value in production
-NEXT_PUBLIC_SITE_URL=https://irreduciblyhuman.xyz  # Used in sitemap generation
+NEXT_PUBLIC_SITE_URL=https://wilkes.xyz  # Used in sitemap generation
 BLOB_READ_WRITE_TOKEN=           # Vercel Blob token (from Vercel dashboard → Storage → Blob)
 NEXT_PUBLIC_GA_ID=               # Google Analytics measurement ID (optional, e.g. G-XXXXXXXXXX)
 NEXT_PUBLIC_ANTHROPIC_API_KEY=   # only if embedding AI assistant directly
@@ -453,7 +453,7 @@ NEXT_PUBLIC_ANTHROPIC_API_KEY=   # only if embedding AI assistant directly
 
 ## Deployment
 - Push to main → auto-deploys to Vercel
-- Domain: irreduciblyhuman.xyz
+- Domain: wilkes.xyz
 
 ## What NOT to do
 - Do not use localStorage — use React state or sessionStorage
@@ -465,7 +465,7 @@ NEXT_PUBLIC_ANTHROPIC_API_KEY=   # only if embedding AI assistant directly
 
 ### Overview
 
-irreduciblyhuman.xyz is the companion site for "Irreducibly Human: What AI Can and Can't Do," a 5-course graduate certificate in Bear Brown & Company. It runs on Next.js with Vercel auto-deploy. The public site has no login; the admin dashboard is cookie-protected.
+wilkes.xyz is the companion site for "Wilkes: What AI Can and Can't Do," a 5-course graduate certificate in Bear Brown & Company. It runs on Next.js with Vercel auto-deploy. The public site has no login; the admin dashboard is cookie-protected.
 
 ---
 
@@ -473,7 +473,7 @@ irreduciblyhuman.xyz is the companion site for "Irreducibly Human: What AI Can a
 
 **Home page** (`/`) — Landing page with program introduction, course overview cards, audience benefits, CTA, and contact info.
 
-**Courses** (`/courses`) — Card grid of the five courses in the Irreducibly Human sequence. Click a course to read its full description.
+**Courses** (`/courses`) — Card grid of the five courses in the Wilkes sequence. Click a course to read its full description.
 
 **About** (`/about`) — Prose-format page covering the program's thesis, author, course sequence, and contact details.
 
@@ -540,7 +540,7 @@ ALTER TABLE blog_posts ADD COLUMN IF NOT EXISTS cover_image TEXT;
 
 ```
 DATABASE_URL=postgresql://user:pass@ep-xxx.us-east-2.aws.neon.tech/neondb?sslmode=require
-NEXT_PUBLIC_SITE_URL=https://irreduciblyhuman.xyz
+NEXT_PUBLIC_SITE_URL=https://wilkes.xyz
 ```
 
 4. **Admin access** — Navigate to `/admin` (redirects to `/admin/login`). Enter the password set in `ADMIN_PASSWORD` env var. On success, an `admin_session` cookie is set (httpOnly, 7-day expiry) and you're redirected to the dashboard.
@@ -705,9 +705,9 @@ After every session, always:
 2. Commit and push all changes to main with a descriptive commit message.
 
 ## Remaining work (in priority order)
-1. Rebrand Header, Footer, Home page, and About page to Irreducibly Human
+1. Rebrand Header, Footer, Home page, and About page to Wilkes
 2. Build `/courses` directory page and five individual course pages
-3. Update legal pages (Privacy, Cookies, Terms) for Irreducibly Human branding
-4. Update color palette for Irreducibly Human branding
+3. Update legal pages (Privacy, Cookies, Terms) for Wilkes branding
+4. Update color palette for Wilkes branding
 5. Add tools via admin dashboard
 6. Consider contact form widget (currently all CTAs route to mailto)

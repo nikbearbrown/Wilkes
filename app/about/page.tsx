@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'About - Irreducibly Human',
-  description: 'Irreducibly Human — What AI Can and Can\'t Do. A 5-course series from Bear Brown & Company.',
+  title: 'About - Wilkes',
+  description: 'Wilkes — What AI Can and Can\'t Do. A 5-course series from Bear Brown & Company.',
 }
 
 export default function AboutPage() {
@@ -15,7 +15,7 @@ export default function AboutPage() {
         <div className="prose prose-lg dark:prose-invert max-w-none space-y-8">
           <section>
             <p>
-              Irreducibly Human is a 5-course series from Bear Brown &amp; Company.
+              Wilkes is a 5-course series from Bear Brown &amp; Company.
               Each course develops a specific tier of human
               intelligence that AI cannot replicate. The series asks: what remains irreducibly
               human in an age of increasingly capable AI?
@@ -26,7 +26,7 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold mb-4">Author</h2>
             <p>
               <strong>Nik Bear Brown</strong>, Bear Brown &amp; Company. Creator of the
-              Irreducibly Human curriculum.
+              Wilkes curriculum.
             </p>
           </section>
 
@@ -44,19 +44,19 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold mb-4">The Five Courses</h2>
             <ul>
               <li>
-                <Link href="/notes/Irreducibly-Human/Irreducibly-Human-Botspeak" className="text-primary hover:underline">BotSpeak</Link> — Tier 4: Creative Authorship
+                <Link href="/notes/Wilkes/Wilkes-Botspeak" className="text-primary hover:underline">BotSpeak</Link> — Tier 4: Creative Authorship
               </li>
               <li>
-                <Link href="/notes/Irreducibly-Human/Irreducibly-Human-Causal-Reasoning" className="text-primary hover:underline">Causal Reasoning</Link> — Tier 5: Causal Reasoning
+                <Link href="/notes/Wilkes/Wilkes-Causal-Reasoning" className="text-primary hover:underline">Causal Reasoning</Link> — Tier 5: Causal Reasoning
               </li>
               <li>
-                <Link href="/notes/Irreducibly-Human/Irreducibly-Human-Ethical-Play" className="text-primary hover:underline">Ethical Play</Link> — Tier 3: Ethical Play
+                <Link href="/notes/Wilkes/Wilkes-Ethical-Play" className="text-primary hover:underline">Ethical Play</Link> — Tier 3: Ethical Play
               </li>
               <li>
-                <Link href="/notes/Irreducibly-Human/Irreducibly-Human-AImagineering" className="text-primary hover:underline">AIMagineering</Link> — Tier 4: Creative Authorship
+                <Link href="/notes/Wilkes/Wilkes-AImagineering" className="text-primary hover:underline">AIMagineering</Link> — Tier 4: Creative Authorship
               </li>
               <li>
-                <Link href="/notes/Embodied-Teaching/Irreducibly-Human-Embodied-Teaching" className="text-primary hover:underline">Embodied Teaching</Link> — Tier 2: Embodied Teaching
+                <Link href="/notes/Embodied-Teaching/Wilkes-Embodied-Teaching" className="text-primary hover:underline">Embodied Teaching</Link> — Tier 2: Embodied Teaching
               </li>
             </ul>
           </section>
